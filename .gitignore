@@ -7,3 +7,6 @@
 
 __pycache__/
 *.pyc
+
+# Database Chroma được tạo tự động khi chạy data_loader.py
+chroma_db/
